@@ -1,8 +1,7 @@
-Mobile Price Range Prediction
+Mobile Price Range Prediction:
 
 
-Data Description
-
+Data Description:
 
 The Dataset consists of 22 Columns of which 21 columns are independent and 1 column is dependent.
 
@@ -53,8 +52,7 @@ Predicting mobile price range using supervised Machine learning classification t
 
 I used some ML models which is very helpful in predicting classification algorithm ex. KNN, SVM, and GuassianNB.
 
-Conclusion
-
+Conclusion :
 
 
 Here I did EDA first in which I checked the correlation and plotted some graphs using matplotlib. And then applied some of the needed algorithms which are Gaussian Naive Bayes, K Nearest Neighbors, and Support Vector Machine.
