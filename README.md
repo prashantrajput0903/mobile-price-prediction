@@ -1,5 +1,9 @@
 Mobile Price Range Prediction
+
+
 Data Description
+
+
 The Dataset consists of 22 Columns of which 21 columns are independent and 1 column is dependent.
 
 Battery_power - Total energy a battery can store in one time measured in mAh
