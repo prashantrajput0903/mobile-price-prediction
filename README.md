@@ -54,6 +54,9 @@ Predicting mobile price range using supervised Machine learning classification t
 I used some ML models which is very helpful in predicting classification algorithm ex. KNN, SVM, and GuassianNB.
 
 Conclusion
+
+
+
 Here I did EDA first in which I checked the correlation and plotted some graphs using matplotlib. And then applied some of the needed algorithms which are Gaussian Naive Bayes, K Nearest Neighbors, and Support Vector Machine.
 
 By using all these algorithms my model is working well with KNN and SVM which are giving Accuracy somewhere around 95%.
